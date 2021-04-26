@@ -62,3 +62,37 @@ https://github.com/twho/loading-buttons-ios
 
 ![demo](https://github.com/twho/loading-buttons-ios/blob/master/gif/overview-light.gif?raw=true)
 
+
+
+## ConfettiView
+
+https://github.com/NSHipster/ConfettiView
+
+- [ ] 使ったことがある
+
+iPhoneが無料で貰えそうな上からなにかふってくるやつ.
+
+
+
+![gif](https://user-images.githubusercontent.com/7659/63643817-48c47100-c68e-11e9-9d02-cbcc79b178bf.gif)
+
+
+
+## RSKGrowingTextView
+
+https://github.com/ruslanskorb/RSKGrowingTextView/
+
+
+
+いい感じにTextFieldのサイズが変わるやつ
+
+![demo](https://github.com/ruslanskorb/RSKGrowingTextView/blob/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif?raw=true)
+
+
+
+## MultiProgressView
+
+https://github.com/mac-gallagher/MultiProgressView
+
+![demo](https://raw.githubusercontent.com/mac-gallagher/MultiProgressView/master/Images/example1.gif)
+
