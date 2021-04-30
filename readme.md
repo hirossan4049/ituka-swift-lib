@@ -96,3 +96,13 @@ https://github.com/mac-gallagher/MultiProgressView
 
 ![demo](https://raw.githubusercontent.com/mac-gallagher/MultiProgressView/master/Images/example1.gif)
 
+
+
+## DGElasticPullToRefresh
+
+https://github.com/gontovnik/DGElasticPullToRefresh
+
+pullToRefresh(リロードのやつ)がいい感じになるやつ。
+
+![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
+
